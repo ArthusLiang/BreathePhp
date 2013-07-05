@@ -23,27 +23,28 @@
       <file leaf-file-name="Breathe.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/frame/Breathe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="216" column="11" selection-start="6653" selection-end="6653" vertical-scroll-proportion="0.0">
+            <state line="271" column="40" selection-start="8380" selection-end="8380" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BreatheRich.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BreatheRich.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/frame/BreatheRich.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="20" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.0">
+            <state line="341" column="10" selection-start="10567" selection-end="10567" vertical-scroll-proportion="0.48585486">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="e#1503#6921#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plug.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="plug.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/private/plug.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="5" selection-start="5080" selection-end="5080" vertical-scroll-proportion="0.83878785">
+            <state line="79" column="11" selection-start="3326" selection-end="3326" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1372986385593" expanded="true" signature="3085:3324" placeholder="..." />
                 <marker date="1372986385593" expanded="true" signature="3116:3217" placeholder="..." />
@@ -68,8 +69,8 @@
       <list>
         <option value="$PROJECT_DIR$/js/frame/Breathe.js" />
         <option value="D:/新建文件夹/Arthus项目/JavascriptLibrary/JavascriptLibrary/ArthusJS/Shift.js" />
-        <option value="$PROJECT_DIR$/js/frame/BreatheRich.js" />
         <option value="$PROJECT_DIR$/js/private/plug.js" />
+        <option value="$PROJECT_DIR$/js/frame/BreatheRich.js" />
       </list>
     </option>
   </component>
@@ -285,6 +286,7 @@
         <state line="71" column="20" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1503#6921#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -315,6 +317,7 @@
         <state line="511" column="45" selection-start="16662" selection-end="16662" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1503#6921#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -331,28 +334,14 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="828" column="0" selection-start="12539" selection-end="12539" vertical-scroll-proportion="0.33293557" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/frame/Breathe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="216" column="11" selection-start="6653" selection-end="6653" vertical-scroll-proportion="0.0">
+        <state line="828" column="0" selection-start="12539" selection-end="12539" vertical-scroll-proportion="0.33293557">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/frame/BreatheRich.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="20" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/private/plug.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="5" selection-start="5080" selection-end="5080" vertical-scroll-proportion="0.83878785">
+        <state line="79" column="11" selection-start="3326" selection-end="3326" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1372986385593" expanded="true" signature="3085:3324" placeholder="..." />
             <marker date="1372986385593" expanded="true" signature="3116:3217" placeholder="..." />
@@ -360,6 +349,23 @@
             <marker date="1372986385593" expanded="true" signature="3351:3592" placeholder="..." />
             <marker date="1372986385593" expanded="true" signature="3382:3489" placeholder="..." />
             <marker date="1372986385593" expanded="true" signature="3504:3580" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/frame/Breathe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="271" column="40" selection-start="8380" selection-end="8380" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/frame/BreatheRich.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="341" column="10" selection-start="10567" selection-end="10567" vertical-scroll-proportion="0.48585486">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1503#6921#0" expanded="false" />
           </folding>
         </state>
       </provider>
