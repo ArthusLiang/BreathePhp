@@ -1,0 +1,32 @@
+/* CSS Document */
+*{padding:0px;margin:0px;font-family: 'Helvetica Neue', Helvetica, Arial, Geneva, sans-serif;}
+body{margin:0 auto; width:1024px;}
+.clearfloat{ clear::both;}
+input[type="button"]{ background:#999; color:white; padding:5px 5px 5px 5px; border:#CCC 1px solid; cursor:pointer;border-radius:5px;}
+input[type="button"]:hover{background:#0583b5;}
+
+/* header */
+.siteName{ font-family:Arial; font-size:36px; color:#0583b5; font-style:italic; font-weight:bold; margin-top:20px;  text-align:center;}
+.nav{ display:block; width:1024x;  height:36px; background-color:#0583b5; margin-top:10px; border-radius:10px; line-height:36px;}
+.nav a{ color: white; margin-left:30px;-webkit-user-select:none;}
+.nav a:hover{ text-decoration:underline;cursor:pointer;}
+
+/* footer */
+footer{ border-top:1px #0583b5 solid; display:block; width:1024px; height:50px; color:#0583b5; margin-top:20px; padding-top:20px; text-align:center;}
+
+/* main */
+.main{ width:984px; height: auto; overflow:hidden; margin:20px auto;}
+
+/* left part */
+.mainLeft{ float:left;width:714px; border:#0583b5 1px solid;border-radius:5px;padding-bottom:40px; }
+.mainLeft article{margin:15px 0 0 10px; }
+.mainLeft h1{ display:block; text-indent: 2em; height:28px; line-height:32px; width:694px; background:#aad3e6; color:white; font-size:16px;border-radius:5px;}
+.mainLeft p{text-indent: 2em; line-height:24px; width:694px; color:#0583b5; font-size:16px; margin-top:10px; }
+.mainLeft pre{text-indent: 2em; line-height:20px; width:694px; color:#949494; font-size:14px; margin-top:10px; background:#ebebeb;border-radius:5px;}
+.mainLeft input{margin:10px auto;}
+
+/* right part */
+.mainRight{ float:right; background:#ebebeb; display:block; width:250px;border-radius:5px; padding-bottom:40px;}
+.mainRight h1{ color:#9c4e33;font-size:18px; width:230px; height:36px; line-height:44px; border-bottom: #9c4e33 1px solid; margin-left:10px;}
+.mainRight li{ color:#c89786;font-size:16px;width:220px; height:26px; line-height:28px;list-style:none;margin-left:15px;}
+.mainRight a:hover{ text-decoration:underline;cursor:pointer;}
