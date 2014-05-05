@@ -599,7 +599,7 @@
     window.$e = function (pFunc, pPriority) {
         return new _breathe.Event(pFunc, pPriority);
     };
-    window.$level=$b.Event.prototype.Level;
     window.Breathe = window.$b = _breathe;
+    window.$level=$b.Event.prototype.Level;    
 
 })(window);
